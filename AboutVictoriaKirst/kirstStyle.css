@@ -1,0 +1,19 @@
+body{font-family: "Georgia", Times, serif;}
+body{   background-color: #6b5f47}
+h1 {    color : rgb(150, 150, 225);
+    font-size: 300%;}
+.intro{color: white;}
+.quarter{  color: rgb(150, 150, 225);}
+.classes{   color: white;}
+.movies{   color : rgb(150, 150, 225);}
+.aboutMovies{    color: white;}
+.moviesList{    color: white;}
+.moods{   color : rgb(150, 150, 225);}
+.happy{   color: white; }
+.facts{   color : rgb(150, 150, 225);}
+.funFacts{    color: white; }
+.imdb{       color: red;
+    text-decoration: underline ;    }
+a:link{    color: red;}
+a:visited{    color: red;}
+a:hover {    color: violet; } 
